@@ -1,6 +1,5 @@
 # EVA4-Session-10
 
-# EVA4-Session-9
 
 1.	Importing all the packages.
 2.	Modules are stored in a library which is available in Session 8 repository folder named Library.
